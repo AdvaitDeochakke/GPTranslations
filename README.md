@@ -7,3 +7,8 @@ Human translation will always be better because nuance, folktales, metaphors and
 
 Requires an OpenAI API key to run. Tries to minimize token usage at a rudimentary level.  
 Did a version where previous translations are kept in conversation context in hopes of aiding translation, but no noticeable improvements were observed.  
+
+
+# To Add
+Convert these to EPUBs instead of .txt, I know how to just later  
+Also look into further token savings
